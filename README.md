@@ -1,5 +1,5 @@
 <h1 align="center">
-   Olán Mundo! - Git & GitHub
+   Olá Mundo! - Git e GitHub
 </h1>
 
 <p align="center">
@@ -21,7 +21,6 @@ Este repositório está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) pa
 
 Copyright :copyright: 2022
 
->  
 
 ## 🎓 Introduction
 
